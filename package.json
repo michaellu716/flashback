@@ -1,0 +1,21 @@
+{
+  "name": "flashback",
+  "version": "1.0.0",
+  "description": "flashcards",
+  "main": "flashCardData.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellu716/flashback.git"
+  },
+  "author": "mlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaellu716/flashback/issues"
+  },
+  "homepage": "https://github.com/michaellu716/flashback#readme"
+}
